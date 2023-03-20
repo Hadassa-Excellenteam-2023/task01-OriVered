@@ -1,9 +1,9 @@
 ﻿# Vector and Stack Classes
 
+This project implements a simple `Vector` and `Stack` class in C++. The `Vector` class provides dynamic array functionality, while the `Stack` class implements a stack data structure using the `Vector` class as the underlying container.
+
 ## Author
 **Ori Vered**
-
-This project implements a simple `Vector` and `Stack` class in C++. The `Vector` class provides dynamic array functionality, while the `Stack` class implements a stack data structure using the `Vector` class as the underlying container.
 
 ## Features
 
